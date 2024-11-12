@@ -1,5 +1,5 @@
 Hi there 👋, I'm Shalini!
-🚀 Aspiring Data Analyst | Tech Lead @ GENAI Project | AI & Data Enthusiast
+🚀 Aspiring Data Scientist | AI & Data Enthusiast
 
 Welcome to my GitHub! I'm passionate about exploring the intersections of data, technology, and AI. Currently, I'm working on various projects that bridge knowledge in data analytics, machine learning, and Artificial Intelligence.
 
