@@ -10,13 +10,13 @@ Welcome to my GitHub! I'm passionate about exploring the intersections of data, 
 
 Programming: Python
 
-Databases: SQL, MongoDB
+Databases: SQL, PostgreSQL
 
 Data Visualization: Power BI, MS Excel
 
 Machine Learning, Data Science
 
-Other Tools: Dialogflow, Figma, Canva
+Other Tools: Dialogflow, Figma
 
 
 🗣️Languages: 
@@ -33,13 +33,6 @@ French
 Effective Communicator
 
 Collaborative and adaptable Team player
-
-
-🌱 Currently Learning
-
-Machine Learning Techniques with Scikit-Learn
-
-Deep learning techniques with Tensorflow
 
 
 📫 Connect with Me
